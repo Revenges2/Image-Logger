@@ -1,0 +1,1 @@
+Run "Image Logger" as an Admin.
